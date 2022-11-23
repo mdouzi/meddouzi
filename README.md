@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1>Med Douzi | software developer</h1> 
 
-|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meddouzi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meddouzi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|
+|[![mdouzi's 42 stats](https://badge.mediaplus.ma/levi/mdouzi)](https://github.com/oakoudad/badge42)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meddouzi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|
 |:---:|:---:|
 
 
