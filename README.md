@@ -1,6 +1,6 @@
 <h1>Med Douzi | software developer</h1> 
 
-|[![mdouzi's 42 stats](https://badge.mediaplus.ma/levi/mdouzi)](https://github.com/oakoudad/badge42)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meddouzi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|
+|[![mdouzi's 42 stats](https://badge.mediaplus.ma/binary/mdouzi)](https://github.com/oakoudad/badge42)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meddouzi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|
 |:---:|:---:|
 
 
