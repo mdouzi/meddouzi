@@ -1,4 +1,5 @@
-<h1>Med Douzi | software developer</h1> 
+<h1>mohamed douzi</h1>
+<h2>Hi everyone</h2>
 
 |[![mdouzi's 42 stats](https://badge.mediaplus.ma/binary/mdouzi)](https://github.com/oakoudad/badge42)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meddouzi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|
 |:---:|:---:|
