@@ -5,3 +5,6 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: douzi1069@gmail.com
 -->
+
+
+[![mdouzi's 42 stats](https://badge.mediaplus.ma/binary/mdouzi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
